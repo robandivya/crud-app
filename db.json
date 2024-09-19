@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "ROBAN KUMAR",
+      "email": "roban214@gmail.com",
+      "phone": "8360028378"
+    },
+    {
+      "id": "2",
+      "name": "Ritika Bisht",
+      "email": "ritika76@gmail.com",
+      "phone": "8360028318"
+    },
+    {
+      "id": "3",
+      "name": "Rohan Kumar",
+      "email": "rohan@gmail.com",
+      "phone": "8360028347"
+    },
+    {
+      "id": "4",
+      "name": "ROBAN Raj",
+      "email": "roba2001@gmail.com",
+      "phone": "8360028380"
+    }
+  ]
+}
