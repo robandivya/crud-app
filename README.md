@@ -5,7 +5,6 @@ CRUD Application
 Overview
 
 This is a CRUD (Create, Read, Update, Delete) application built with React.js and Bootstrap. The application allows users to manage a list of items with the ability to add, view, edit, and delete entries.
-Currently, two official plugins are available:
 
 
 
